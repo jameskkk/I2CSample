@@ -1,0 +1,5 @@
+{
+    "sketch": "I2CMaster.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM6"
+}

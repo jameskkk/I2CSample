@@ -1,0 +1,5 @@
+{
+    "sketch": "I2CSlaver.ino",
+    "board": "arduino:avr:pro",
+    "configuration": "cpu=16MHzatmega328"
+}
